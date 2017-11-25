@@ -1,0 +1,2 @@
+# BotAlphatJS
+Bot Kicker
